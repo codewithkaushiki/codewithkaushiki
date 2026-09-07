@@ -1,3 +1,4 @@
+![logo](https://github.com/codewithkaushiki/codewithkaushiki/blob/main/CODIES.jpeg)
  <h1 align="center">Hi 👋, I'm Kaushiki Singh</h1>
 <h3 align="center">A Passionate Developer from India</h3>
 <img align="right" alt="Coding" height=250 width=350 src="https://camo.githubusercontent.com/d5e5728f1e7dc264b948f113671f4d132058014a9cfa6080c92b77b81b38d0ff/68747470733a2f2f63646e622e61727473746174696f6e2e636f6d2f702f6173736574732f696d616765732f696d616765732f3032382f3939312f3939392f6f726967696e616c2f616e6e612d68617672796c79756b682d2e6769663f31353936313235313132" />
